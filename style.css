@@ -1,0 +1,38 @@
+.zalsteksts {
+    color:green;
+    border-style: dashed;
+    width: 50%;
+}
+
+p#unikals {
+    color: blue;
+    font-size: large;
+    width: 70%;
+}
+
+div.ramitis {
+    border-style: double;
+    border-color: chocolate;
+}
+
+#specialramitis {
+    border-style: dashed;
+    border-color: chocolate;
+    margin: 20px;
+    padding: 20px;
+    width: 50%;
+    display: grid;
+    grid-template-columns: 20% 80%;
+}
+
+ul li {
+    font-style: italic;
+}
+
+ol li {
+    text-decoration: underline;
+}
+
+body {
+    background-color: cadetblue;
+}
